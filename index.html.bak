@@ -1,0 +1,54 @@
+
+<html>
+  <head>
+    <title>SWAG</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <meta charset="utf-8">
+    <link rel="icon" type="image/x-icon" href="assets/haha.ico">
+    <meta property="og:title" content="SWAGJESUS">
+    <meta property="og:image" content="https://cdn.discordapp.com/attachments/660506303398936616/849229017299156992/85ecaji7d8f61.jpg">
+    <meta property="og:url" content="index.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="theme-color" content="#ffade8">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="divide"></div>
+    <div class="wrapper">
+      <div id="bgwrapper"></div>
+      <div id="enterSite" onclick="opensesame()">
+        <div class="nice" id="cancer">
+          click to continue
+        </div>
+      </div>
+
+      <video loop muted id="bg-video">
+        <source src="assets/bg_1.mp4" type="video/mp4">
+      </video>
+      <audio loop id="audio">
+        <source src="assets/femboy.mp3" type="audio/mpeg">
+      </audio>
+      
+      <div id="screen" class="hello">
+        <a class="title">SWAGJESUS<a/><br>
+        <a href="https://discord.gg/HtYzGmevrg6" target="_blank">Arc'teryx</a><br>
+        <hr>
+        <a onclick="myFunction()" href="#">discord</a><br>
+        <a href="https://www.instagram.com/willieaz/" target="_blank">instagram</a><br>
+        <a href="https://twitter.com/SwagJesus11" target="_blank">twitter</a><br>
+        <hr>
+        <a href="https://steamcommunity.com/id/SwagJesus/" target="_blank">id/SwagJesus</a><br>
+		<a href="https://steamcommunity.com/id/Ybngora/" target="_blank">id/Ybngora</a><br>
+		<a href="https://steamcommunity.com/id/benimofficial" target="_blank">id/BenimOfficial</a><br>
+        <a href="https://steamcommunity.com/id/RustyDustyDinosaur" target="_blank">id/RustyDustyDinosaur</a><br>
+        <a href="https://steamcommunity.com/id/delayedoverwatchban" target="_blank">id/delayedoverwatchban</a><br>
+      </div>
+
+      <div class="footer">
+        <a class="foot" href="" target="_blank"></a></span>
+      </div>
+
+    </div>
+  </body>
+  <script src="js/scripts.js"></script>
